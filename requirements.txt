@@ -1,0 +1,7 @@
+datasets
+pandas
+transformers==4.40.0
+tensorflow
+tf-keras
+numpy
+tokenizers
